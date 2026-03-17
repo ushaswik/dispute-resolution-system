@@ -1,0 +1,21 @@
+TARGET STORE #1234
+123 Main Street, Seattle, WA 98101
+(206) 555-0100
+
+Date: 03/07/2026
+Time: 14:35:22
+Transaction #: T789456123
+
+ITEMS:
+Wireless Mouse          $24.99
+USB-C Cable             $12.99
+Laptop Stand            $45.99
+-------------------------
+Subtotal:               $83.97
+Tax (10.1%):            $8.48
+TOTAL:                  $92.45
+
+Payment: Visa ending in 4567
+Approval Code: 456789
+
+Thank you for shopping at Target!
