@@ -1,0 +1,80 @@
+[
+  {
+    "policy_id": "MCD-4840",
+    "policy_name": "Lost/Stolen Card Liability",
+    "category": "Fraud Protection",
+    "filename": "MCD-4840_Lost_Stolen_Card_Liability.md"
+  },
+  {
+    "policy_id": "MCD-2100",
+    "policy_name": "Fraudulent Transaction Processing",
+    "category": "Fraud Protection",
+    "filename": "MCD-2100_Fraudulent_Transaction_Processing.md"
+  },
+  {
+    "policy_id": "MCD-5250",
+    "policy_name": "Item Not Received",
+    "category": "Transaction Disputes",
+    "filename": "MCD-5250_Item_Not_Received.md"
+  },
+  {
+    "policy_id": "MCD-5260",
+    "policy_name": "Item Not As Described",
+    "category": "Transaction Disputes",
+    "filename": "MCD-5260_Item_Not_As_Described.md"
+  },
+  {
+    "policy_id": "MCD-6100",
+    "policy_name": "Canceled Recurring Transaction",
+    "category": "Subscription Disputes",
+    "filename": "MCD-6100_Canceled_Recurring_Transaction.md"
+  },
+  {
+    "policy_id": "MCD-6200",
+    "policy_name": "Duplicate Processing",
+    "category": "Transaction Errors",
+    "filename": "MCD-6200_Duplicate_Processing.md"
+  },
+  {
+    "policy_id": "MCD-6300",
+    "policy_name": "Incorrect Transaction Amount",
+    "category": "Transaction Errors",
+    "filename": "MCD-6300_Incorrect_Transaction_Amount.md"
+  },
+  {
+    "policy_id": "MCD-1000",
+    "policy_name": "Zero Liability Protection Policy",
+    "category": "Cardholder Rights",
+    "filename": "MCD-1000_Zero_Liability_Protection_Policy.md"
+  },
+  {
+    "policy_id": "MCD-7000",
+    "policy_name": "Documentation Requirements",
+    "category": "Processing Guidelines",
+    "filename": "MCD-7000_Documentation_Requirements.md"
+  },
+  {
+    "policy_id": "MCD-7100",
+    "policy_name": "Time Limits and Deadlines",
+    "category": "Processing Guidelines",
+    "filename": "MCD-7100_Time_Limits_and_Deadlines.md"
+  },
+  {
+    "policy_id": "MCD-8000",
+    "policy_name": "International Transaction Rules",
+    "category": "Special Circumstances",
+    "filename": "MCD-8000_International_Transaction_Rules.md"
+  },
+  {
+    "policy_id": "MCD-8100",
+    "policy_name": "High-Value Transaction Rules",
+    "category": "Special Circumstances",
+    "filename": "MCD-8100_High-Value_Transaction_Rules.md"
+  },
+  {
+    "policy_id": "MCD-9000",
+    "policy_name": "Quality Assurance and Best Practices",
+    "category": "Internal Guidelines",
+    "filename": "MCD-9000_Quality_Assurance_and_Best_Practices.md"
+  }
+]

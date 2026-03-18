@@ -1,0 +1,14 @@
+openai==1.12.0
+python-dotenv==1.0.0
+fastapi==0.109.0
+uvicorn==0.27.0
+
+# Vector search
+faiss-cpu==1.13.2
+numpy==1.26.4
+
+# Re-ranking
+cohere==5.11.0
+
+# Utilities
+tiktoken==0.7.0
